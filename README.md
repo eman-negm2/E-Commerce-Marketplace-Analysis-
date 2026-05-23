@@ -6,7 +6,9 @@ In this project, I analyzed an online marketplace dataset to uncover key busines
 The dataset contains order-level transactional data including:
 
 Customer information (ID, Segment, City, Region)
+
 Order details (Order Date, Product, Category)
+
 Sales metrics (Sales, Profit, Discount, Quantity)
 
 Tools Used:
